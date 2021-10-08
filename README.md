@@ -1,4 +1,4 @@
-# Core React Features
+# React Hooks Practice
 
 I have used this project to learn and test React hooks.
 
